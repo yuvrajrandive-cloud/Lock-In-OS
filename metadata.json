@@ -1,0 +1,6 @@
+{
+  "name": "LOCKIN",
+  "description": "A minimal, discipline-focused personal operating system designed for builders, creators, and athletes to maintain consistency, stay focused, and execute daily.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
